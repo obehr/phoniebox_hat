@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Phoniebox")(type "KiCad")(uri "${KIPRJMOD}/Phoniebox.kicad_sym")(options "")(descr ""))
+)
