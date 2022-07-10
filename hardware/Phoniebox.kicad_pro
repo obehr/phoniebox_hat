@@ -397,12 +397,6 @@
         "microvia_drill": 0.1,
         "name": "Speaker",
         "nets": [
-          "/LOUT+",
-          "/LOUT-",
-          "/OUTL",
-          "/OUTR",
-          "/ROUT+",
-          "/ROUT-",
           "/SPK_L+",
           "/SPK_L-",
           "/SPK_R+",
@@ -477,6 +471,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "9e4892c1-dc01-406a-a6e5-c229f8787227",
+      "Audio"
+    ],
+    [
+      "d4959c5e-4172-4790-946e-5973fcb8b755",
+      "Buttons"
     ]
   ],
   "text_variables": {}
