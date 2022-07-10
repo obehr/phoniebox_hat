@@ -1,7 +1,7 @@
 # phoniebox_hat
 Raspberry Pi HAT for [RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID)
 
-In 2021 I built a Raspberry PI based Jukebox with RFID reader (see [here](https://github.com/MiczFlor/RPi-Jukebox-RFID/discussions/1331#discussioncomment-433065)). I used a breadboard for buttons and LEDs, USB sound card, ground loop isolator, PAM8403 amplifier. To disconnect the Raspberry from its USB power bank supply on shutdown, I used the [OnOff SHIM](https://shop.pimoroni.com/products/onoff-shim) by Pimoroni.
+In 2021 I built a Raspberry PI based Jukebox with RFID reader (see [here](https://github.com/MiczFlor/RPi-Jukebox-RFID/discussions/1331#discussioncomment-433065)). I used a breadboard for buttons and LEDs, USB sound card, ground loop isolator, PAM8403 amplifier. To disconnect the Raspberry from its USB power bank supply on shutdown, I used the awesome [OnOff SHIM](https://shop.pimoroni.com/products/onoff-shim) by Pimoroni.
 
 This is a Raspberry Pi HAT for the 40W GPIO header. It integrates all of those functions on a single custom PCB:
  - DAC (PCM5102a)
@@ -10,6 +10,8 @@ This is a Raspberry Pi HAT for the 40W GPIO header. It integrates all of those f
  - Button inputs with hardware debounce
  - Screw clamps for connecting button and LEDs
  - Pin header for RFID-RC522
- - Reverse engineered OnOffSHIM circuit
+ - Reverse engineered OnOffSHIM circuit (the SHIM is awesome but I didn't want a separate PCB)
 
 The PCB complies to the official [HAT specification](https://github.com/raspberrypi/hats). Schematic and layout are done in KiCad 6.0.
+
+![Screenshot of PCB](doc/PCB.png)
