@@ -479,6 +479,10 @@
     [
       "d4959c5e-4172-4790-946e-5973fcb8b755",
       "Buttons"
+    ],
+    [
+      "8118fa49-c505-4e36-9730-2244f1b1e0dd",
+      "OnOffSHIM"
     ]
   ],
   "text_variables": {}

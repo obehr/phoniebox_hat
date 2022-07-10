@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid d000a625-0c70-4149-b46a-9dd3f5826611)
+  (uuid aa5196b4-9ff1-4a48-a2b4-69a655414ef5)
 
   (paper "A4")
 
@@ -1036,7 +1036,7 @@
   (symbol (lib_id "power:+3.3V") (at 209.55 105.41 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5a1dcda3-2f4b-4f11-975b-4a47d6740967)
-    (property "Reference" "#PWR?" (id 0) (at 209.55 109.22 0)
+    (property "Reference" "#PWR0160" (id 0) (at 209.55 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 209.9183 101.0856 0))
@@ -1107,7 +1107,7 @@
   (symbol (lib_id "power:GND") (at 209.55 118.11 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8191612f-4650-427a-879b-5ff16d789733)
-    (property "Reference" "#PWR?" (id 0) (at 209.55 124.46 0)
+    (property "Reference" "#PWR0159" (id 0) (at 209.55 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 209.6643 122.4344 0))
