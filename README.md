@@ -8,9 +8,9 @@ This is a Raspberry Pi HAT for the 40W GPIO header. It integrates all of those f
  - Amplifier (PAM8406)
  - LED open drain buffers
  - Button inputs with hardware debounce
- - Screw clamps for connecting button and LEDs
- - Pin header for RFID-RC522
- - Reverse engineered OnOffSHIM circuit (the SHIM is awesome but I didn't want a separate PCB)
+ - Screw clamps for connecting buttons and LEDs
+ - Pin headers for RFID-RC522 and I2C
+ - Battery disconnect circuit (the OnOff SHIM is awesome but I didn't want a separate PCB)
 
 The PCB complies to the official [HAT specification](https://github.com/raspberrypi/hats). Schematic and layout are done in KiCad 6.0.
 
