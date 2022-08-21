@@ -27,9 +27,12 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+#*.csv
 
 # LTSpice
 *.log
 *.raw
+
+# Gerber
+gerber.zip
 
