@@ -1,14 +1,7 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C21,4u7,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,13.208000,40.640000,-90.000000,top
-D1,BAT54C,SOT-23,20.320000,44.196000,90.000000,top
-J5,Conn_02x02_Odd_Even,PinHeader_2x02_P2.54mm_Vertical_SMD,29.972000,30.480000,90.000000,top
-J7,USB_B_Micro,USB_Micro-B_Amphenol_10118194_Horizontal,2.750972,43.150042,-90.000000,top
-J8,Conn_02x04_Odd_Even,PinHeader_2x04_P2.54mm_Vertical_SMD,32.512000,43.195000,90.000000,top
-Q7,AO3401A,SOT-23,12.700000,44.196000,180.000000,top
-Q8,2N7002,SOT-23,16.256000,40.640000,0.000000,top
-R24,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,15.748000,44.196000,90.000000,top
-R25,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,17.272000,44.196000,-90.000000,top
-R26,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,11.684000,40.640000,-90.000000,top
-R27,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,20.320000,41.148000,0.000000,top
-R28,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,22.860000,44.196000,-90.000000,top
-U4,CAT24C32,TSSOP-8_4.4x3mm_P0.65mm,41.148000,45.212000,90.000000,top
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","Screw_Terminal_01x08","TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal",14.732000,4.064000,0.000000,top
+"J3","Screw_Terminal_01x08","TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal",38.100000,4.064000,0.000000,top
+"J4","Screw_Terminal_01x08","TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal",4.064000,33.020000,-90.000000,top
+"J5","Conn_02x02_Odd_Even","PinHeader_2x02_P2.54mm_Vertical_SMD",29.972000,30.480000,90.000000,top
+"J7","USB_B_Micro","USB_Micro-B_Amphenol_10118194_Horizontal",2.750972,43.150042,-90.000000,top
+"J8","Conn_02x04_Odd_Even","PinHeader_2x04_P2.54mm_Vertical_SMD",32.512000,43.195000,90.000000,top
