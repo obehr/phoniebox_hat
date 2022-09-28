@@ -1,0 +1,17 @@
+
+Generating Gerber Files
+---------------------------------------
+
+... and also drill files...
+
+See https://support.jlcpcb.com/article/194-how-to-generate-gerber-and-drill-files-in-kicad-6
+
+
+Generating BOM and centroid file
+---------------------------------------
+
+See https://support.jlcpcb.com/article/84-how-to-generate-the-bom-and-centroid-file-from-kicad
+
+Run script through Schematic editor -> Tools -> Create BOM
+
+Export pos file. Remember to rename columns according to JLC article
