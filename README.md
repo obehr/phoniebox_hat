@@ -11,7 +11,8 @@ This is a Raspberry Pi HAT for the 40W GPIO header. It integrates all of those f
  - Screw clamps for connecting buttons and LEDs
  - Pin headers for RFID-RC522 and I2C
  - Battery disconnect circuit (the OnOff SHIM is awesome but I didn't want a separate PCB)
+ - USB-C connector for power supply
 
-The PCB complies to the official [HAT specification](https://github.com/raspberrypi/hats). Schematic and layout are done in KiCad 6.0.
+The PCB complies to the official [HAT specification](https://github.com/raspberrypi/hats). Schematic and layout are done in KiCad 6.0. When ordering five PCBs including assembly at JLCPCB, one board costs around 18 USD.
 
 ![Screenshot of PCB](doc/PCB.png)
